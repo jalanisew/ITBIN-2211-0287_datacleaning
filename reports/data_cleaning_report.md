@@ -53,6 +53,6 @@ This report details the data cleaning process performed on the Hotel Booking Dem
 
 ---
 
-**Prepared by:** Akila Srimantha
-**Date:** 2025-07-19
-**GitHub** https://github.com/AkilaSrimantha/ITBIN-2211-0150_data_cleaning.git
+**Prepared by:** Jalani Sewmini
+**Date:** 2025-07-29
+**GitHub** https://github.com/jalanisew/ITBIN-2211-0287_datacleaning.git
